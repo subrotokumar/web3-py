@@ -1,0 +1,5 @@
+file_name : ".env"
+
+content :
+export PRIVATE_KEY=0xaBcDeFgHiJKlMnOpQrStUvWxYz
+export TESTNET_RPC_URL=https://infura.io/adsfasdfs
